@@ -1,0 +1,15 @@
+C:\Users\Nam\Documents\t\50-pound-per-person-\bin\Debug\net9.0\seven.exe
+C:\Users\Nam\Documents\t\50-pound-per-person-\bin\Debug\net9.0\seven.deps.json
+C:\Users\Nam\Documents\t\50-pound-per-person-\bin\Debug\net9.0\seven.runtimeconfig.json
+C:\Users\Nam\Documents\t\50-pound-per-person-\bin\Debug\net9.0\seven.dll
+C:\Users\Nam\Documents\t\50-pound-per-person-\bin\Debug\net9.0\seven.pdb
+C:\Users\Nam\Documents\t\50-pound-per-person-\obj\Debug\net9.0\seven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nam\Documents\t\50-pound-per-person-\obj\Debug\net9.0\seven.AssemblyInfoInputs.cache
+C:\Users\Nam\Documents\t\50-pound-per-person-\obj\Debug\net9.0\seven.AssemblyInfo.cs
+C:\Users\Nam\Documents\t\50-pound-per-person-\obj\Debug\net9.0\seven.csproj.CoreCompileInputs.cache
+C:\Users\Nam\Documents\t\50-pound-per-person-\obj\Debug\net9.0\seven.sourcelink.json
+C:\Users\Nam\Documents\t\50-pound-per-person-\obj\Debug\net9.0\seven.dll
+C:\Users\Nam\Documents\t\50-pound-per-person-\obj\Debug\net9.0\refint\seven.dll
+C:\Users\Nam\Documents\t\50-pound-per-person-\obj\Debug\net9.0\seven.pdb
+C:\Users\Nam\Documents\t\50-pound-per-person-\obj\Debug\net9.0\seven.genruntimeconfig.cache
+C:\Users\Nam\Documents\t\50-pound-per-person-\obj\Debug\net9.0\ref\seven.dll
